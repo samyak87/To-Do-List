@@ -1,0 +1,10 @@
+h1{
+    background-color: rgb(24, 241, 16);
+    width: max-content;
+}
+
+.card-body{
+    border: solid 3px black;
+    border-radius: 10px;
+    background-color:darkturquoise;
+}
